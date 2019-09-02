@@ -3,3 +3,11 @@
   font-family: Georgia, serif;
   font-size: 30px;
 }
+
+table {
+  border: 2px dotted;
+}
+
+.cells {
+  border: 2px solid blue;
+}
